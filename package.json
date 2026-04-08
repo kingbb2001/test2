@@ -1,0 +1,14 @@
+{
+  "name": "hdhive-signin",
+  "author": "kingbb2001",
+  "plugins": [
+    {
+      "name": "hdhive",
+      "title": "影巢签到",
+      "description": "影巢 HDHive 站点自动签到，支持定时任务和手动触发",
+      "author": "kingbb2001",
+      "version": "1.0.0",
+      "url": "https://github.com/kingbb2001/test2/tree/main/plugins/hdhive"
+    }
+  ]
+}
